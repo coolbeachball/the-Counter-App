@@ -1,0 +1,8 @@
+* {
+    margin: 0;
+    font-family: monospace;
+}
+
+#container {
+    height: 100vh;
+}
